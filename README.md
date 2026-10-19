@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Based%20in-Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&labelColor=0D1117&color=30363D" alt="location" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=30363D&style=flat-square&labelColor=0D1117" alt="views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=30363D&labelColor=0D1117" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=umerikhlaq16&label=PROFILE+VIEWS&color=30363D&style=flat-square&labelColor=0D1117" alt="views" />
+<img src="https://img.shields.io/github/followers/umerikhlaq16?label=FOLLOWERS&style=flat-square&color=30363D&labelColor=0D1117" alt="followers" />
 
 </div>
 
@@ -78,40 +78,48 @@ These days I'm focused on **AI agents, LLM apps and automation**, and on shippin
 <tr>
 <td width="50%" valign="top">
 
-**[project-one](https://github.com/YOUR_USERNAME/project-one)**
+**[Corely](https://github.com/umerikhlaq16/Corely)**
 
-One line about what this project does.
+Agency website mockup built with React and Vite.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="stack" />
+[Live demo](https://corely-five.vercel.app) · [Source](https://github.com/umerikhlaq16/Corely)
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,vercel&theme=dark" alt="stack" />
 
 </td>
 <td width="50%" valign="top">
 
-**[project-two](https://github.com/YOUR_USERNAME/project-two)**
+**[Sba](https://github.com/umerikhlaq16/Sba)**
 
-One line about what this project does.
+B2B one-pager website with a downloadable product catalog, built with Next.js and Firebase.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres&theme=dark" alt="stack" />
+[Live demo](https://sba-kohl.vercel.app) · [Source](https://github.com/umerikhlaq16/Sba)
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,vercel&theme=dark" alt="stack" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[project-three](https://github.com/YOUR_USERNAME/project-three)**
+**[Cafe-Demo-1](https://github.com/umerikhlaq16/Cafe-Demo-1)**
 
-One line about what this project does.
+Modern cafe website demo built with Next.js and TypeScript.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" alt="stack" />
+[Live demo](https://cafe-demo-1-psi.vercel.app) · [Source](https://github.com/umerikhlaq16/Cafe-Demo-1)
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel&theme=dark" alt="stack" />
 
 </td>
 <td width="50%" valign="top">
 
-**[project-four](https://github.com/YOUR_USERNAME/project-four)**
+**[Aurex Networking Website](https://github.com/umerikhlaq16/Aurex-Networking-Website-Demo-)**
 
-One line about what this project does.
+Networking company website demo built with Next.js and TypeScript.
 
-<img src="https://skillicons.dev/icons?i=python,aws,redis&theme=dark" alt="stack" />
+[Source](https://github.com/umerikhlaq16/Aurex-Networking-Website-Demo-)
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel&theme=dark" alt="stack" />
 
 </td>
 </tr>
@@ -123,10 +131,10 @@ One line about what this project does.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=7" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umerikhlaq16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerikhlaq16&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=7" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umerikhlaq16&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
 </div>
 
